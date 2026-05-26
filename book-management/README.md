@@ -60,4 +60,8 @@ npm run build
 - React 18
 - CSS Variables (no extra CSS library)
 - MockAPI.io (hosted mock REST API)
-- Deployed on Vercel
+- Deployed on Netlify
+
+### 5. Deployment link
+
+https://bookshelf-ksheetizdev.netlify.app/
